@@ -6,7 +6,7 @@ requests>=2.22.0
 einops>=0.3.0
 chardet>=3.0.4
 x_transformers==0.15.0
-torch
+torch>=1.7.0
 imagesize>=1.2.0
 transformers>=4.2.2
 tokenizers==0.9.4
