@@ -132,7 +132,6 @@ notebooks/
 .ipynb_checkpoints/
 dataset/data/**
 wandb/
-checkpoints/**
 !**/.gitkeep
 .vscode
 .DS_Store
