@@ -20,3 +20,4 @@ timm
 python-Levenshtein>=0.12.2
 fastapi
 uvicorn
+entmax
